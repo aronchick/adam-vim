@@ -4,9 +4,9 @@ Adam's vimrc
 To use, want to do this:
 
 ```bash
-$ git clone github.com/adamhjk/adam-vim ~/.vim
-$ cd ~/.vim
-$ make install
+git clone github.com/aronchick/adam-vim ~/.vim
+cd ~/.vim
+make install
 ```
 
 Then marvel at what's up.
